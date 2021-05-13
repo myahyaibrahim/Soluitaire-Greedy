@@ -24,8 +24,8 @@ Berisi tumpukan kartu menurun; yang biasa terdapat di bawah permainan
 Jalankan file bernama SolitaireSimulation.py
 
 ## Pictures Documentation
-![ChatanYuk](https://github.com/hilalhmdy/tubes-3-stima/blob/main/img/ChatanYuk.png)
-![ChatanYuk](https://github.com/hilalhmdy/tubes-3-stima/blob/main/img/ChatanYuk.png)
+![Solitaire](https://github.com/myahyaibrahim/Soluitaire-Greedy/blob/main/img/Solitaire.png)
+![SolitaireSimulation](https://github.com/myahyaibrahim/Soluitaire-Greedy/blob/main/img/SolitaireSimulation.png)
 
 ## Author
 - [Mohammad  Yahya Ibrahim (13519091)](https://github.com/ibrahimyahyaa)
